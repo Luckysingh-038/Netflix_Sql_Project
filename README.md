@@ -1,5 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-[Netflix Logo]{}
+[Netflix Logo]{https://github.com/Luckysingh-038/Netflix_Sql_Project/blob/main/Netflix%20logo.png}
 
 
 This repository contains SQL queries designed to analyze Netflix data. The queries cover multiple business-related questions to explore various aspects of Netflix's content, including movies and TV shows. These analyses include counting content types, exploring ratings, identifying actors, and categorizing content based on certain keywords.
